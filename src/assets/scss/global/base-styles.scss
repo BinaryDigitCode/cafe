@@ -4,6 +4,8 @@
  * Project: https://github.com/oxalorg/sakura/
  */
 
+//  background-image: url("https://cdn.some.pics/binarydigit/65f51e3fc68c4.png");
+
 /* Body */
 html {
   scroll-padding-top: 100px;
@@ -12,6 +14,7 @@ html {
 }
 
 body {
+  background-image: url("https://cdn.some.pics/binarydigit/65f51e3fc68c4.png");
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -48,6 +51,7 @@ body {
 }
 
 main {
+  
   padding: var(--header-height) 13px 13px;
 
   @media (min-width: 1024px) {
