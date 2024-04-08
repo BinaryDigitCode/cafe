@@ -6,6 +6,7 @@ section: home
   <div class="home-page__bg-square"></div>
   {# Hero #}
   <div class="hero">
+
     <div class="hero__col">
       <h1 class="hero__title gradient-text">{{ home.title }}</h1>
       {% if home.body %}
@@ -17,10 +18,20 @@ section: home
         home.image,
         home.image_alt,
         "(min-width: 1024px) 50vw, 100vw",
-        "hero__image shadow",
+        "hero__image",
         "eager"
       %}
     </div>
+
+      {# <div class="hero__col">
+        {% image
+          home.image,
+          home.image_alt,
+          "(min-width: 1024px) 50vw, 100vw",
+          "hero__image shadow",
+          "eager"
+        %}
+      </div> #}
   </div>
 
   {# Articles #}
