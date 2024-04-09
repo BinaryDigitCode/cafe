@@ -1,6 +1,6 @@
 {
   "editorCmd": "code",
-  "openAfterCreate": false,
+  "openAfterCreate": true,
   "paragraphCount": 4,
   "postsFolder": "src/posts",
   "promptCategory": false,

@@ -20,16 +20,34 @@ body {
   line-height: 1.618;
   color: var(--color-text);
   background-color: var(--color-bg);
+  background-image: url('https://cdn.some.pics/binarydigit/660c71553d069.png');
 
   :root[data-theme="dark"] & {
     background-color: var(--color-bg-dark);
     color: var(--color-text-dark);
-    background-image: url('https://cdn.some.pics/binarydigit/65f51e6bed7d0.png');
+
   }
 }
 
 .wrapper-bg-wrapper {
   display:none;
+
+  :root & {
+    display:flex;
+    position:fixed;
+    height:100%;
+    width:100%;
+    z-index:-1;
+    justify-content: center;
+
+    .wrapper-bg{
+      width:calc(var(--site-width) + 100px);
+      background-color: white;
+      border-right: 1px solid var(--color-bg-secondary);
+      border-left: 1px solid var(--color-bg-secondary);
+    }
+  }
+
 
   :root[data-theme="dark"] & {
     display:flex;
@@ -46,6 +64,7 @@ body {
       border-left: 1px solid var(--color-bg-secondary-dark);
     }
   }
+
 }
 
 main {
