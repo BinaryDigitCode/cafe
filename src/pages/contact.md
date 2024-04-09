@@ -2,13 +2,12 @@
 section: contact
 layout: contact.njk
 title: Get in touch
-date: 2018-01-01
+date: 2024-04-01
 permalink: /contact/index.html
 metaDescription: Send me a message!
-subtitle: Contact Subtitle
 eleventyNavigation:
   key: Contact
   order: 4
 ---
 
-Add my letterbird form here from contact.njk
+<script data-letterbirduser="binarydigit" data-width="800px" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
