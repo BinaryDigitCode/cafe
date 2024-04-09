@@ -3,10 +3,11 @@ layout: base.njk
 section: home
 ---
 <div class="home-page">
-  <div class="home-page__bg-square"></div>
+
+  {# <div class="home-page__bg-square"></div> #}
   {# Hero #}
   <div class="hero">
-
+    
     <div class="hero__col">
       <h1 class="hero__title gradient-text">{{ home.title }}</h1>
       {% if home.body %}
@@ -20,38 +21,37 @@ section: home
         "(min-width: 1024px) 50vw, 100vw",
         "hero__image",
         "eager"
-      %}
+      %} 
     </div>
 
-      {# <div class="hero__col">
-        {% image
-          home.image,
-          home.image_alt,
-          "(min-width: 1024px) 50vw, 100vw",
-          "hero__image shadow",
-          "eager"
-        %}
-      </div> #}
   </div>
-
-  {# Projects #}
-  <div class="list-header">
-    <h2 class="list-header__title">Projects</h2>
-    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
-  </div>
-  {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
 
   {# Articles #}
   <div class="list-header">
-    <h2 class="list-header__title">Articles</h2>
+    <h2 class="list-header__title">Posts</h2>
     <a class="btn btn--outline btn--sm" href="/blog">View All</a>
   </div>
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(
     articles = collections.post | reverse,
     show_tags = true,
-    limit = 5
+    limit = 3
   ) }}
+
+  {# Projects #}
+  {# <div class="list-header">
+    <h2 class="list-header__title">Projects</h2>
+    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
+  </div>
+  {% from "macros/projectlist.njk" import projectlist %}
+  {{ projectlist(projects = collections.project | reverse) }}
+   #}
+
+  {# Status.lol #}
+    <div class="list-header">
+    <h2 class="list-header__title">Statuslog</h2>
+    <a class="btn btn--outline btn--sm" href="https://binarydigit.status.lol/">View All</a>
+    </div>
+  <script src="https://status.lol/binarydigit.js?time&link&fluent"></script>
 
 </div>

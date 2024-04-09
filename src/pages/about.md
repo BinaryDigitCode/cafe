@@ -18,9 +18,15 @@ I’m doing a digital overhaul for the next few months and would like to make th
 
 ## Colophon
 
-Website built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a> & a customized <a href="{{ pkg.repository.url }}" target="_blank">Fernfolio theme</a>.
+Website built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a> & customized <a href="{{ pkg.repository.url }}" target="_blank">Fernfolio theme</a>.
 
-Get yourself a fun webpage, Mastodon account, status log, weblog, email forwarding and more with my [OMG.lol referral](https://home.omg.lol/referred-by/binarydigit)!
+Comments built with [Giscus](https://giscus.app).
+
+Hosted back on [Netlify](https://netlify.com) until I can move back over to Neocities.
+
+### Referrals
+
+Get a fun webpage, Mastodon account, status log, weblog, email forwarding and more with my [OMG.lol referral](https://home.omg.lol/referred-by/binarydigit)!
 
 <!-- No AI button created by [Andy Carolan](https://www.andycarolan.com/).  -->
 <!-- <img src="/assets/img/NoAi_03.png" alt="NoAI button by Andy Carolan" width="80px" height="auto"> -->
