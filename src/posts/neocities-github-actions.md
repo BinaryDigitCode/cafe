@@ -1,5 +1,6 @@
 ---
 title: Neocities and GitHub Actions
+urlPath: neocities-github-actions/
 summary: Hugo Website on Neocities and Deploying with GitHub Actions
 date: 2024-02-19
 image: assets/img/feature-imgs/feature-neocities.png

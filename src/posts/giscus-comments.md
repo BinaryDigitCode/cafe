@@ -1,5 +1,6 @@
 ---
 title: Giscus for Comments
+urlPath: giscus-comments
 summary: Comments via GitHub
 date: 2024-03-21
 image: assets/img/feature-imgs/feature-giscus.png

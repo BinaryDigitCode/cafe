@@ -29,14 +29,14 @@ section: home
 
   {# Articles #}
   <div class="list-header">
-    <h2 class="list-header__title"><i class="fa-solid fa-newspaper"></i> Posts</h2>
+    <h2 class="list-header__title"><i class="fa-solid fa-newspaper"></i> Latest Post</h2>
     <a class="btn btn--outline btn--sm" href="/blog">View All</a>
   </div>
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(
     articles = collections.post | reverse,
-    show_tags = false,
-    limit = 3
+    show_tags = true,
+    limit = 1
   ) }}
   <br>
   

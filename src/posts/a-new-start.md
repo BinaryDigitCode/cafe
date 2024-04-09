@@ -1,15 +1,17 @@
 ---
 title: A New Start
+urlPath: a-new-start
 summary: From Hugo to Eleventy 
 date: 2024-04-08
 image: assets/img/feature-imgs/helloagain.png
+altText: This is some alt text
 tags:
   - Code
   - Eleventy
 ---
 # Version 3 of the Cafe
 
-![Hello Again graphic](/src/assets/img/feature-imgs/helloagain.png)
+![Hello Again graphic](/src/assets/img/feature-imgs/helloagain.png "this is alt text" )
 
 It should come to no surprise that I've tinkered yet again and have converted my website to something new. Welcome to *version 3* of the cafe!
 

@@ -1,5 +1,6 @@
 ---
 title: Celebrate How You Want To
+urlPath: celebrate
 summary: B gets her first CS2 Knife
 date: 2024-03-07
 image: assets/img/feature-imgs/feature-cs2.png

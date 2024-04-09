@@ -8,11 +8,20 @@
       >
         <a class="article-card__link" href="{{ article.url | url }}">
           <h5 class="article-card__title">{{ article.data.title }}</h5>
-          {% if article.data.summary %}
+
+
+          {% if article.data.image %}
+            <p class="article-card__image">
+              <img src="{{ title }}/{{ article.data.image }}">
+            </p>
+          {% endif %}
+          
+          {# {% if article.data.summary %}
             <p class="article-card__summary">
               {{ article.data.summary }}
             </p>
-          {% endif %}
+          {% endif %} #}
+
           {% if article.data.tags and show_tags %}
             <p class="tag-list">
               {% for tag in article.data.tags %}

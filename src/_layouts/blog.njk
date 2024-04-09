@@ -8,14 +8,18 @@ permalink: /blog/index.html
   {{ layoutContent | safe }}
 	<hr/>
 
+
   {# Article List #}
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(
-    articles = pagination.items | reverse,
+    articles = collections.post | reverse,
     show_tags = true
-  ) }}
+  ) }} 
 
   {# Pagination #}
   {% include 'partials/pagination.njk' %}
 
 </div>
+
+
+

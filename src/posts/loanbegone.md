@@ -1,5 +1,6 @@
 ---
-title: Loans be Gone
+title: Loans be Gone!
+urlPath: loansbegone
 summary: Achievement Unlocked! 🎉
 date: 2024-02-02
 image: assets/img/feature-imgs/feature-unlocked.png
