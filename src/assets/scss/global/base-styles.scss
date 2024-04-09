@@ -42,7 +42,7 @@ body {
 
     .wrapper-bg{
       width:calc(var(--site-width) + 100px);
-      background-color: white;
+      background-color: var(--color-bg);
       border-right: 1px solid var(--color-bg-secondary);
       border-left: 1px solid var(--color-bg-secondary);
     }
