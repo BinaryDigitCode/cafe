@@ -24,9 +24,14 @@ Comments built with [Giscus](https://giscus.app).
 
 Hosted back on [Netlify](https://netlify.com) until I can move back over to Neocities.
 
+
+## Contact
+
+<script data-letterbirduser="binarydigit" data-width="800px" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
+
+
 ### Referrals
 
-Get a fun webpage, Mastodon account, status log, weblog, email forwarding and more with my [OMG.lol referral](https://home.omg.lol/referred-by/binarydigit)!
+Get a fun webpage, Mastodon account, status log, weblog, email forwarding and more with [OMG.lol](https://home.omg.lol/referred-by/binarydigit).
 
-<!-- No AI button created by [Andy Carolan](https://www.andycarolan.com/).  -->
-<!-- <img src="/assets/img/NoAi_03.png" alt="NoAI button by Andy Carolan" width="80px" height="auto"> -->
+Get 10% off your first year when you sign up for [Fastmail](https://ref.fm/u29983120).

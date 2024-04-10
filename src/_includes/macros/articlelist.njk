@@ -1,5 +1,6 @@
 {% macro articlelist(articles, show_tags = true, limit) %}
   <section>
+    <div class="project-grid">
   {% for article in articles %}
     {% if limit === undefined or loop.index0 < limit %}
       <article
@@ -7,8 +8,7 @@
         {% if article.url == url %} data-current="current item"{% endif %}
       >
         <a class="article-card__link" href="{{ article.url | url }}">
-          <h5 class="article-card__title">{{ article.data.title }}</h5>
-
+          <h4 class="article-card__title">{{ article.data.title }}</h4>
 
           {% if article.data.image %}
             <p class="article-card__image">
@@ -34,7 +34,9 @@
           {% endif %}
         </a>
       </article>
+
     {% endif %}
   {% endfor %}
+  </div>
   </section>
 {% endmacro %}
