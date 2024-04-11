@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/notes"
-  to = "/blog"
-  status = 301
-  force = true
