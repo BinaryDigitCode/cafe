@@ -1,4 +1,5 @@
 [[redirects]]
   from = "/notes"
-  to = "/posts"
+  to = "/blog"
   status = 301
+  force = true
