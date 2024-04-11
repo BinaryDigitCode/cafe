@@ -2,7 +2,7 @@
 title: A New Start
 urlPath: a-new-start
 summary: From Hugo to Eleventy 
-date: 2024-04-08
+date: 2024-04-10
 image: assets/img/feature-imgs/helloagain.png
 altText: This is some alt text
 tags:
@@ -11,9 +11,9 @@ tags:
 ---
 # Version 3 of the Cafe
 
-![Hello Again graphic](/src/assets/img/feature-imgs/helloagain.png "this is alt text" )
-
 It should come to no surprise that I've tinkered yet again and have converted my website to something new. Welcome to *version 3* of the cafe!
+
+<img src="https://raw.githubusercontent.com/BinaryDigitCode/cafe/main/SS.png" alt="BinaryDigit's homepage" width="auto">
 
 I haven't been up to many projects or hobbies lately, but I find that fiddling with my website is somehow theraputic. I love learning new things, and since I've been around on Mastodon for a while, I follow many developers, artists, and creative folks that I admire and get inspiration from. 
 
