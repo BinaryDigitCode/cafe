@@ -29,13 +29,25 @@
           </li>
         {%- endfor %}
 
+        {# Add new nav items here #}
+          <li class="site-header__item">
+            <a class="site-header__link" href="https://binarydigit.omg.lol" target="_blank"><i class="fa-solid fa-heart fa-lg"></i></a>
+          </li>
+
+          <li class="site-header__item">
+            <a class="site-header__link" href="https://ko-fi.com/binarydigit" target="_blank"><i class="fa-solid fa-mug-saucer fa-lg"></i>
+            </a>
+          </li>
+
+
         {% if global.enable_theme_switch %}
           <li class="site-header__item">
-            <button class="site-header__link site-header__link--theme-switch" data-theme-switch>
+            <div class="site-header__link site-header__link--theme-switch" data-theme-switch>
               {{ global.switch_theme_icon | svg | safe }}
-            </button>
+            </div>
           </li>
         {% endif %}
+
       </ul>
     </nav>
   </div>

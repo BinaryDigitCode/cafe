@@ -7,7 +7,3 @@ tags:
   - tech
   - Eleventy
 ---
-
-### Summary
-
-Lorem ipsum

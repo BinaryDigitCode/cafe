@@ -1,6 +1,6 @@
 {% macro articlelist(articles, show_tags = true, limit) %}
   <section>
-    <div class="project-grid">
+    <div class="article-grid">
   {% for article in articles %}
     {% if limit === undefined or loop.index0 < limit %}
       <article

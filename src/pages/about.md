@@ -1,11 +1,12 @@
 ---
-title: About Me
+title: About & Contact
 metaDescription: All about BinaryDigit
 date: 2024-04-01
 permalink: /about/index.html
+emoji: 👩🏽‍🦳
 eleventyNavigation:
   key: About
-  order: 1
+  order: 2
 ---
 ![BinaryDigit on a colorful background](/src/assets/img/BinaryDJHeaderImage.png)
 
@@ -15,8 +16,7 @@ I’m originally from New York and currently living in Michigan. My work backgro
 
 I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a digital cafe; a personal space to gather projects, what I’m working on, thoughts, and notes.
 
-
-## Colophon
+### Colophon
 
 Website built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a> & customized <a href="{{ pkg.repository.url }}" target="_blank">Fernfolio theme</a>.
 
@@ -25,13 +25,12 @@ Comments built with [Giscus](https://giscus.app).
 Hosted back on [Netlify](https://netlify.com) until I can move back over to Neocities.
 
 
-## Contact
-
-<script data-letterbirduser="binarydigit" data-width="800px" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
-
-
 ### Referrals
 
 Get a fun webpage, Mastodon account, status log, weblog, email forwarding and more with [OMG.lol](https://home.omg.lol/referred-by/binarydigit).
 
 Get 10% off your first year when you sign up for [Fastmail](https://ref.fm/u29983120).
+
+
+### Contact Me
+<script data-letterbirduser="binarydigit" data-width="100%" src="https://letterbird.co/embed/v1.js"></script>
