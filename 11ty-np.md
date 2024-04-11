@@ -1,7 +1,6 @@
 ---
 title: 
 urlPath:
-summary:  
 date: 
 image: assets/img/
 tags:
