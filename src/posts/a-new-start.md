@@ -3,8 +3,8 @@ title: A New Start
 urlPath: a-new-start
 summary: From Hugo to Eleventy 
 date: 2024-04-10
-image: assets/img/feature-imgs/helloagain.png
-altText: This is some alt text
+image: assets/img/feature-imgs/feature-hello.png
+altText: Hello Again!
 tags:
   - Code
   - Eleventy

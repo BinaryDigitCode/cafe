@@ -8,7 +8,7 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-![BinaryDigit on a colorful background](/src/assets/img/BinaryDJ.png)
+![BinaryDigit on a colorful background](/src/assets/img/feature-imgs/BinaryDJ.png)
 
 I’m B - aka Liz - a Xennial who grew up when the internet was young, just as I was. My family bought our first computer in 1997, and I become fascinated with how computers worked, how the web evolved, and being online a bit too much!
 

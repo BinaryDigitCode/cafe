@@ -8,7 +8,6 @@ tags:
   - Neocities
   - GitHub
 ---
-![Neocities](/src/assets/img/feature-imgs/feature-neocities.png)
 
 ## Neocities
 

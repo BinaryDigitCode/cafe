@@ -27,7 +27,7 @@ Introducing the...
 
 # **Shaddow Daggers Doppler Phase 1!**
 
-![BinaryDigit's CS Shadow Daggers](/src/assets/img/CS2-Shaddow-Daggers.png)
+![BinaryDigit's CS Shadow Daggers](/src/assets/img/post-imgs/CS2-Shaddow-Daggers.png)
 
 Here's a youtube video if you want to see the animation:
 
