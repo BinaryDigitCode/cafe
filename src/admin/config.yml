@@ -170,10 +170,10 @@ collections:
               - { label: "Key", name: "key", widget: "string" }
               - { label: "Order", name: "order", widget: "number", default: 0 }
 
-      # Contact Page
-      - label: "Contact Page"
-        name: "contact"
-        file: "src/pages/contact.md"
+      # Photo Gallery Page
+      - label: "Photo Gallery Page"
+        name: "gallery"
+        file: "src/pages/gallery.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
