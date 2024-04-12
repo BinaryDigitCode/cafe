@@ -11,6 +11,9 @@
   from = "/notes"
   to = "/blog"
 
+[[redirects]]
+  from = "blog.binarydigit.cafe"
+  to = "/blog"
 
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302
