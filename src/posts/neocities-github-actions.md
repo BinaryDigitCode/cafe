@@ -6,7 +6,7 @@ date: 2024-02-19
 image: assets/img/feature-imgs/feature-neocities.png
 tags:
   - Neocities
-  - GitHub
+  - Code
 ---
 
 ## Neocities

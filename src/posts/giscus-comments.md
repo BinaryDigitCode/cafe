@@ -5,7 +5,7 @@ summary: Comments via GitHub
 date: 2024-03-21
 image: assets/img/feature-imgs/feature-giscus.png
 tags:
-  - GitHub
+  - Code
 ---
 
 I've decided to remove webmentions from this website, in favor of trying out [Giscus](https://giscus.app/), a commenting system powered by GitHub discussions. Since most of the people I've run into on the nerdiverse(fediverse) who might read this website probably use Github, why not try to use a free comment system based on it. It also includes reactions which are cool to see for feedback.
