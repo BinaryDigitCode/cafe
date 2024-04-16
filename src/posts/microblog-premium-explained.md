@@ -3,7 +3,7 @@ title: Micro.blog Premium Explained
 urlPath: microblog-premium-explained
 date: 2024-03-20
 image: assets/img/feature-imgs/feature-mbexplained.png
-tags: blog
+tags: Blog
 ---
 #### 📒 _Originally posted on my old [micro.blog](https://binarydigit.micro.blog/2024/03/20/microblog-premium-explained.html)_
 
