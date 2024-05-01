@@ -2,7 +2,7 @@
 title: Hello WeblogPoMo in 2024
 date: 2024-05-01
 image: assets/img/feature-imgs/default-main-freepik.png
-tags: {{ tags }}
+tags: Blogging
 ---
  <p><br />I&#39;ve never successfully done any of these challenges such as photo
 a day or blogging a day, but why not give it a try right? My posts will
