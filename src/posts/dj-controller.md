@@ -1,7 +1,7 @@
 ---
 title: DJ Controller
 date: 2024-05-02
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/Traktor-controller.jpg
 tags: Gaming
 ---
  <figure class="attachment attachment--preview flex-col justify-center attachment--jpeg">

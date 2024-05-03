@@ -1,7 +1,7 @@
 ---
 title: Funky Friday
 date: 2024-05-03
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/disco.png
 tags: Music
 ---
  <figure class="attachment attachment--preview flex-col justify-center attachment--png">
