@@ -1,5 +1,5 @@
 ---
-title: Good morning to everyone except anixety
+title: Good morning to everyone except anxiety
 date: 2024-05-06
 image: assets/img/feature-imgs/brady-corps-ellyLSXQ5wg-unsplash.jpg
 tags: Blogging
