@@ -1,8 +1,8 @@
 ---
 title: Good morning to everyone except anixety
 date: 2024-05-06
-image: assets/img/feature-imgs/default-main-freepik.png
-tags: {{ tags.0 }}
+image: assets/img/feature-imgs/brady-corps-ellyLSXQ5wg-unsplash.jpg
+tags: Blogging
 ---
  <p>It&#39;s going to be one of those days. Anixety tends to creep in during PMS
 and also since my surgery is next week my nerves get the best of me.

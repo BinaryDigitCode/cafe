@@ -1,7 +1,7 @@
 ---
 title: Chill Sunday
 date: 2024-05-06
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/feature-icecream.jpeg
 tags: Blogging
 ---
  <p>Today I slept in slightly, but needed more sleep due to late night
