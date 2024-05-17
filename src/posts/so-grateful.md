@@ -1,7 +1,7 @@
 ---
 title: So Grateful
 date: 2024-05-15
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/dylan-ferreira-SCwDA7kegqo-unsplash.jpg
 tags: Blogging
 ---
  <p>TW: medical speak/body stuff</p>

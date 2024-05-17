@@ -1,7 +1,7 @@
 ---
 title: Working Outside
 date: 2024-05-08
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/iewek-gnos-0-oPmFrlubo-unsplash.jpg
 tags: Blogging
 ---
  <figure class="attachment attachment--preview flex-col justify-center attachment--jpg">

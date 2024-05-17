@@ -1,7 +1,7 @@
 ---
 title: Happy Friday
 date: 2024-05-17
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/ray-hennessy-8YcUN7F_-6c-unsplash.jpg
 tags: Blogging
 ---
  <figure class="attachment attachment--preview flex-col justify-center attachment--jpg">
