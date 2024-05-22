@@ -27,6 +27,8 @@ collections:
         name: "global"
         file: "src/_data/global.json"
         fields:
+            editor:
+              preview: false
           - { label: "Enable Theme switch", name: "enable_theme_switch", widget: "boolean", required: true }
           - { label: "Switch Theme Icon (.svg)", name: "switch_theme_icon", widget: "image", required: true }
           - { label: "Use System Theme", name: "use_system_theme", widget: "boolean", required: true }
