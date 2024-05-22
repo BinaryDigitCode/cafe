@@ -1,7 +1,7 @@
 ---
 title: Sunday Plans
 date: 2024-05-19
-image: assets/img/feature-imgs/default-main-freepik.png
+image: assets/img/feature-imgs/feature-apples.png
 tags: Blogging
 ---
  <figure class="attachment attachment--preview flex-col justify-center attachment--png">
