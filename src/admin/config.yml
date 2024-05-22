@@ -8,8 +8,6 @@ backend:
 media_folder: "src/assets/img/feature-imgs" # Media files will be stored in the repo under images/uploads
 public_folder: "assets/img" 
 collections:
-    editor:
-      preview: false
   #Global Settings
   - name: "global-settings"
     label: "Global Settings"
@@ -51,6 +49,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+    editor:
+        preview: false
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: OGImage, name: image, widget: image, choose_url: true, required: false }
