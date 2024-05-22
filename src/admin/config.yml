@@ -49,8 +49,6 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-    editor:
-        preview: false
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: OGImage, name: image, widget: image, choose_url: true, required: false }
@@ -171,4 +169,3 @@ collections:
             fields:
               - { label: "Key", name: "key", widget: "string" }
               - { label: "Order", name: "order", widget: "number", default: 0 }
-
